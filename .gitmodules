@@ -6,4 +6,4 @@
 	url = https://github.com/mderler/rdp_api.git
 [submodule "workspace/gui"]
 	path = workspace/gui
-	url = https://github.com/htlweiz/rdp_gui.git
+	url = https://github.com/mderler/rdp_gui.git
