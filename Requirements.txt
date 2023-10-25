@@ -16,3 +16,4 @@ flake8-eradicate
 flake8-isort
 flake8-variables-names
 flake8-builtins
+pandas
