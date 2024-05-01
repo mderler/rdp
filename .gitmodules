@@ -3,7 +3,7 @@
 	url = https://github.com/htlweiz/rdp_cuse
 [submodule "volumes.skel/workspace/gui"]
 	path = volumes.skel/workspace/gui
-	url = https://github.com/htlweiz/rdp.gui.git
+	url = https://github.com/mderler/rdp.gui.git
 [submodule "volumes.skel/workspace/api"]
 	path = volumes.skel/workspace/api
-	url = https://github.com/htlweiz/rdp.api.git
+	url = https://github.com/mderler/rdp.api.git
